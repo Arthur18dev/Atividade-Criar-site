@@ -1,0 +1,66 @@
+.Titulo1 {
+    color: #00D7DF;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 7.36px;
+    padding-left: 56px;
+    padding-top: 60px;
+    border: 1px solid red;
+}
+
+.Titulo2 {
+    color: #FFF;
+    text-align: justify;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+letter-spacing: 7.36px;
+padding-left: 56px;
+width: 50%;
+border: 1px solid red;
+}
+
+img {
+    height: 78px;
+    padding-left: 3%;
+    padding-top: 2%;
+    border: 1px solid red;
+ }
+ .header {
+    color: #65CCEB;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 3.68px;
+    border: 1px solid red;
+    padding-left: 20px;
+ }
+ .cima{
+    display: flex;
+    justify-self: start;
+    border: 1px solid red;
+ }
+ .cima li{
+    border: 1px solid red;
+    padding-left: 140px;
+    padding-top: 45px;
+ }
+.invisivel {
+    width: 920px;
+height: 463px;
+background: rgba(101, 204, 235, 0.12);
+border: 1px solid red;
+
+}
+
+body {
+    background: linear-gradient(270deg, #1B4965 0%, #000 101.67%);
+}
