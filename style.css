@@ -47,6 +47,8 @@ img {
     display: flex;
     justify-self: start;
     border: 1px solid red;
+    list-style: none;
+    
  }
  .cima li{
     border: 1px solid red;
