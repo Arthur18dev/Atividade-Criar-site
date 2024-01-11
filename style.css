@@ -52,17 +52,20 @@ img {
  }
  .cima li{
     border: 1px solid red;
-    padding-left: 140px;
+    padding-right: 140px;
     padding-top: 45px;
  }
 .invisivel {
-    width: 920px;
+    width: 1509px;
 height: 463px;
-background: rgba(101, 204, 235, 0.12);
 border: 1px solid red;
-
 }
 
 body {
     background: linear-gradient(270deg, #1B4965 0%, #000 101.67%);
 }
+
+width: 900px;
+height: 463px;
+background: rgba(101, 204, 235, 0.12);
+border: 1px solid red;
